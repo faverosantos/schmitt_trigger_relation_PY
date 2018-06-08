@@ -18,7 +18,7 @@ VREF = 2 \
 VDDP = 3.3 \
 VDDN = 0 \
 PVREF = 0.85 
-will return R1 = 3, R2 = 1 and R3 = 1. \
+will return R1 = 3, R2 = 1 and R3 = 1.
 
 You can just multiply those values by 10 k and you're set to go.
 
